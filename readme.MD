@@ -1,2 +1,2 @@
 aesdaas
-<img src="https://dummyimage.com/600x400/000/fff?asdasd=asdas&asdas=121312312"/>
+<img src="http://ss.initedit.com/ss.php?test=1"/>
