@@ -1,2 +1,2 @@
 aesdaas
-<img src="http://ssd.initedit.com/download.php?file=-Freesample.svg&name=Freesample.svg"/>
+<img src="http://cdn.shopify.com/s/files/1/0496/1029/files/Freesample.svg?5153"/>
